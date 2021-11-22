@@ -8,5 +8,6 @@ six
 funcsigs
 tabulate
 coverage
+iminuit
 kafe2
 PhyPraKit
